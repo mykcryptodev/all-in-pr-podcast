@@ -1,6 +1,6 @@
 # all-in-pr-podcast
 
-![All-In PR Podcast billboard: "Your PR. On air."](assets/billboard.jpg)
+https://github.com/user-attachments/assets/505c33c7-c462-4c66-89f8-17faf82501a7
 
 An agent skill that turns a GitHub pull request into a 2-3 minute,
 four-host audio episode in the style of the All-In podcast:
